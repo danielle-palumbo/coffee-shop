@@ -1,6 +1,7 @@
 ---
 title: Welcome to the coffee blog
 date: 2022-06-15T19:21:50.150Z
+contentKey: blog
 ---
 # Hello!
 
